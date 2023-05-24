@@ -21,14 +21,14 @@
 
 6. Запускаем и проверяем
 
-    ![start](start.jpg)
+    ![start](https://user-images.githubusercontent.com/24943522/240642513-3effff10-8fcd-45e1-81cd-f31fd97211b7.jpg)
 
 ## Особенности бота
 * Есть меню команд  
 
-    ![start](menu.jpg)
+    ![menu](https://user-images.githubusercontent.com/24943522/240642521-3249e660-2ee8-45b7-8519-fc0bafeab499.jpg)
 * Доступно на выбор TCP и HTTP/S
 
-    ![start](test_job.jpg)
+    ![http](https://user-images.githubusercontent.com/24943522/240642500-12d111c7-660d-4250-9483-ba87bde1ab0c.jpg)
 
-    ![start](test_job_tcp.jpg)
+    ![tcp](https://user-images.githubusercontent.com/24943522/240642509-5c5225ff-5b16-4cc7-a837-d50f891f34a7.jpg)
